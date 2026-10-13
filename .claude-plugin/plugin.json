@@ -1,0 +1,12 @@
+{
+  "name": "project-brainify",
+  "displayName": "Project Brainify",
+  "version": "0.2.0",
+  "description": "Prepare and accompany a project with a Karpathy-style LLM wiki: interview requirements, build a linked wiki, sync it with the running project, query it, keep it healthy.",
+  "author": {
+    "name": "Julius Fiegl",
+    "email": "julius.fiegl@akademie-ki.com"
+  },
+  "license": "MIT",
+  "keywords": ["wiki", "knowledge-base", "requirements", "obsidian", "karpathy", "project-planning"]
+}
